@@ -1,5 +1,5 @@
 ## Did I do it?
-<img src="output.gif"/>
+<img src="output.png"/>
 <!--
 **NewtronReal/NewtronReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
