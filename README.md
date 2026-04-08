@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="output.gif"/>
 <!--
 **NewtronReal/NewtronReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
